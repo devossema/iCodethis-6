@@ -41,6 +41,6 @@ button {
     height: 50px;
     border-radius: 3px;
     width: 250px;
-    color: rgb(255, 255, 255);
-    font-weight: 500;
+    color: rgb(255, 255, 255) !important;
+    font-weight: 500 !important;
 }
